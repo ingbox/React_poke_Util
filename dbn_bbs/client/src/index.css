@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "PokemonGSC";
+    font-weight: 100;
+    src: url("fonts/gsc.ttf") format("truetype");
+  }
+
+body {
+    font-family: "PokemonGSC";
+}
